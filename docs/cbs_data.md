@@ -1,5 +1,5 @@
 ---
-layout: test-side-nav
+layout: page-with-side-nav
 title: Wmo Voorspelmodel Documentatie
 ---
 # Documentatie voor Functies
