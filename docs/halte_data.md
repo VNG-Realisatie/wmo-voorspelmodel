@@ -1,3 +1,11 @@
+---
+
+layout: page-with-side-nav
+
+title: Wmo Voorspelmodel Documentatie
+
+---
+
 # Documentatie voor Functies
 
 ## Bestand: halte_data.R
