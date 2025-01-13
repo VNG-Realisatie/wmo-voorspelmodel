@@ -1,5 +1,5 @@
 ---
-layout: thema-page-with-side-nav
+layout: page-with-side-nav
 title: Themas Wmo Voorspelmodel
 ---
 # Themas Wmo Voorspelmodel - VNG Realisatie
