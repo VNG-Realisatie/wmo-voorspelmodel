@@ -38,9 +38,6 @@ themanav:
         path: /
       - title: Thema
         path: /themas/
-        subnav:
-          - title: Sub Thema
-            path: /themas/sub-thema-1/
 
 
 plugins:
